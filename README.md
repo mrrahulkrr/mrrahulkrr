@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul kumar</h1>
 <h3 align="center">A passionate Software developer and ML Enthusiast from India</h3>
 <img align="right" alt="coding" src="https://github.com/mrrahulkrr/mrrahulkrr/assets/140700179/321e4d29-78e6-4a6f-99c8-d2c0eaf883b9"/>
+
+
+
 <br/>
-<div>........</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrahulkrr&label=Profile%20views&color=0e75b6&style=flat" alt="mrrahulkrr" /> </p>
 
