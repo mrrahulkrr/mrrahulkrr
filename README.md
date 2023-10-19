@@ -1,3 +1,4 @@
+![logo](![image](https://github.com/mrrahulkrr/mrrahulkrr/assets/140700179/5b2c4f64-af09-42bf-83bf-5d083720ce75))
 <h1 align="center">Hi 👋, I'm Rahul kumar</h1>
 <h3 align="center">A passionate Software developer and ML Enthusiast from India</h3>
 <img align="right" alt="coding" src="https://github.com/mrrahulkrr/mrrahulkrr/assets/140700179/321e4d29-78e6-4a6f-99c8-d2c0eaf883b9"/>
