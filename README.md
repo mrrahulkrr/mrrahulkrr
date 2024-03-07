@@ -1,6 +1,6 @@
 ![logo](https://github.com/mrrahulkrr/mrrahulkrr/assets/140700179/5b2c4f64-af09-42bf-83bf-5d083720ce75)
 <h1 align="center">Hi 👋, I'm Rahul kumar</h1>
-<h3 align="center"> A Passionate Full Stack developer | MERN | Specialist (Level 6) | 5K+ Exp⚡ at CodeStudio | TA @Nxtwave (web-designing fundamentals) </h3>
+<h3 padding="10px" align="center"> A Passionate Full Stack developer | MERN | Specialist (Level 6) | 5K+ Exp⚡ at CodeStudio | TA @Nxtwave (web-designing fundamentals) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrahulkrr&label=Profile%20views&color=0e75b6&style=flat" alt="mrrahulkrr" /> </p>
 
