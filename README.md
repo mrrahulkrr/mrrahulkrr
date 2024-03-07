@@ -23,7 +23,7 @@
 <a href="https://twitter.com/krrahul2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krrahul2003" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rahul-krr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahul-krr" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/rahulkr2003/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rahulkr2003/code" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/http://www.youtube.com/@rahulkumar-cg8rh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@rahulkumar-cg8rh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/http://www.youtube.com/@Rahulkumar-cg8rh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@rahulkumar-cg8rh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahulkrgupta18032003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulkrgupta18032003" height="30" width="40" /></a>
 </p>
 
