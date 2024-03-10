@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/krrahul2003" target="blank"><img src="https://img.shields.io/twitter/follow/krrahul2003?logo=twitter&style=for-the-badge" alt="krrahul2003" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **my portfolio website.**
 
 - 🌱 I’m currently learning **Typescript and other development frameworks.**
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 I’m looking to collaborate on **open-source projects.**
 
-- 💬 Ask me about **my interests in Full-Stack development and Web3 .**
+- 💬 Ask me about **my interests in Full-Stack development and Web3.**
 
 - 📫 How to reach me **rahulkrgupta18032003@gmail.com**
 
