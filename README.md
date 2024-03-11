@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my portfolio website.**
 
-- 🌱 I’m currently learning **Typescript and other development frameworks.**
+- 🌱 I’m currently learning **Typescript and Nextjs.**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
