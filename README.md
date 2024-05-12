@@ -33,6 +33,8 @@
 
 [![An image of @mrrahulkrr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrrahulkrr)](https://holopin.io/@mrrahulkrr)
 
+[![mrrahulkrr's GitHub | Stats](https://stats.quine.sh/mrrahulkrr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mrrahulkrr)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrrahulkrr&show_icons=true&locale=en&layout=compact" alt="mrrahulkrr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrrahulkrr&show_icons=true&locale=en" alt="mrrahulkrr" /></p>
