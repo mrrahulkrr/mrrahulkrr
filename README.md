@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rahulkrgupta18032003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xodK52M-jhxxjoox52bucBji67NVsdfl/view?usp=drive_link](https://drive.google.com/file/d/1xodK52M-jhxxjoox52bucBji67NVsdfl/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bu44HxotkoXYS8DQCIrzThbQEGrBkXIF/view?usp=sharing]
 
 - ⚡ Fun fact **I know why are you here....**
 
